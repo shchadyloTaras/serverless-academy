@@ -1,0 +1,23 @@
+{
+  "name": "01_cli_interactive_sort",
+  "version": "1.0.0",
+  "description": "SLS — AWS Trainee Crush Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shchadyloTaras/serverless-academy.git"
+  },
+  "keywords": [
+    "node",
+    "node.js"
+  ],
+  "author": "Taras Shchadylo <tarasdidg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shchadyloTaras/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/shchadyloTaras/serverless-academy#readme"
+}
